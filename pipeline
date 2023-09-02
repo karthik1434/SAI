@@ -4,4 +4,5 @@ agent any
 stages
 step"git checkout"
 git url=https://github.com/spring-projects/spring-petclinic.git
+hello  world
 
